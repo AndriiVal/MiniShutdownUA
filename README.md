@@ -1,4 +1,5 @@
-# MiniShutdownUA
+MiniShutdownUA
+==============
 
 MiniShutdown - іконка завершення роботи для області сповіщень на панелі завдань.
 
